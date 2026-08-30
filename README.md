@@ -1,4 +1,4 @@
-[githubprofileREADME.md](https://github.com/user-attachments/files/31621664/githubprofileREADME.md)
+
 ### Привет, я Егор 👋
 
 Android-разработчик. Пишу под Android на Kotlin, учусь на 3 курсе РТУ МИРЭА.
