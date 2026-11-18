@@ -34,9 +34,10 @@
 
 #### 🏆 Хакатоны
 
+- **[Воплощение](https://github.com/egor-ver/voploshenie)** — профориентационный тест и каталог возможностей (олимпиады, стажировки, курсы, дедлайны); Android и веб.
 - **[Zorky](https://github.com/r20xd/Zorky)** — видеоконтроль промышленной безопасности: находит нарушения на камерах и сразу оповещает ответственного.
 - **[ai-telegram-helper](https://github.com/shierururu/ai-telegram-helper)** — Telegram-помощник для предпринимателей по базе знаний «Альфа-Курса» (Hack&Change 2026).
-- **[finny-pet](https://github.com/egor-ver/finny-pet)** — игра о финансовой грамотности для детей 7–11 лет на Android (Kotlin, Compose).
+- **[finny-pet](https://github.com/egor-ver/finny-pet)** — игра о финансовой грамотности для детей 7–11 лет на Android (Kotlin, Jetpack Compose).
 
 ---
 
