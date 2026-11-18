@@ -45,4 +45,3 @@
 
 - Telegram — [@egr333](https://t.me/egr333)
 - Email — e.verovsky@yandex.ru
-- LeetCode — [j3brail](https://leetcode.com/u/j3brail)
