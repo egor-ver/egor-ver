@@ -15,16 +15,28 @@
 ![Hilt](https://img.shields.io/badge/Hilt-2C4AA0?style=flat)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat)
 ![Room](https://img.shields.io/badge/Room-FF6D00?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Работаю с:** Kotlin · Jetpack Compose · Material 3 · MVVM · Coroutines / Flow · Hilt · Retrofit · Room · DataStore · JUnit
+**Работаю с:** Kotlin · Jetpack Compose · Material 3 · MVVM · Coroutines / Flow · Hilt · Retrofit · Room · DataStore · JUnit · JavaScript · Python · HTML / CSS · Node.js
 
 ---
 
 #### 📱 Проекты
 
 - **[CryptoTracker](https://github.com/egor-ver/CryptoTracker)** — трекер цен криптовалют. Compose, MVVM, Hilt, Retrofit + OkHttp, Coroutines/Flow, unit-тесты. Чистые слои data/domain/ui.
-- **[Water-Tracker-Compose](https://github.com/egor-ver/Water-Tracker-Compose)** — трекер воды. Compose, MVVM, Hilt, Room + DataStore. Локальное хранение и история по дням.
+
+---
+
+#### 🏆 Хакатоны
+
+- **[Zorky](https://github.com/r20xd/Zorky)** — видеоконтроль промышленной безопасности: находит нарушения на камерах и сразу оповещает ответственного.
+- **[ai-telegram-helper](https://github.com/shierururu/ai-telegram-helper)** — Telegram-помощник для предпринимателей по базе знаний «Альфа-Курса» (Hack&Change 2026).
+- **[finny-pet](https://github.com/egor-ver/finny-pet)** — игра о финансовой грамотности для детей 7–11 лет на Android (Kotlin, Compose).
 
 ---
 
